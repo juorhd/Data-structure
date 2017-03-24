@@ -1,0 +1,71 @@
+EVENT
+Women's 400m Freestyle
+
+HEAT  1  2  Kristel KOBRICH              CHI     29.92   1:01.78   1:33.83   2:06.45   2:38.78   3:11.63   3:44.00   4:16.07
+HEAT  1  3  Joanna EVANS                 BAH     28.89     59.94   1:31.02   2:02.63   2:33.87   3:05.57   3:37.05   4:07.60
+HEAT  1  4  Chihiro IGARASHI             JPN     28.32     59.62   1:30.74   2:02.64   2:34.19   3:05.94   3:37.24   4:07.52
+HEAT  1  5  Valerie GRUEST_SLOWING       GUA     28.87   1:00.41   1:33.11   2:06.47   2:39.69   3:13.26   3:46.87   4:19.58
+HEAT  1  6  Katarina SIMONOVIC           SRB     29.54   1:01.07   1:33.26   2:05.72   2:37.76   3:10.50   3:43.46   4:15.57
+HEAT  1  7  Lani CABRERA                 BAR     30.60   1:03.01   1:36.88   2:10.47   2:45.16   3:19.55   3:54.91   4:28.95
+HEAT  1  8  Gabriella DOUEIHY            LIB     31.08   1:03.72   1:38.21   2:12.16   2:47.31   3:22.16   3:57.86   4:31.21
+HEAT  2  1  Vien NGUYEN_THI_ANH          VIE     29.18   1:00.61   1:32.12   2:04.35   2:36.67   3:09.87   3:42.99   4:16.32
+HEAT  2  2  Ajna KESELY                  HUN     29.07   1:00.28   1:31.20   2:02.81   2:34.59   3:07.09   3:39.77   4:12.40
+HEAT  2  3  Lotte FRIIS                  DEN     29.00   1:00.03   1:30.86   2:02.09   2:33.24   3:04.86   3:36.04   4:07.13
+HEAT  2  4  Sarah KOHLER                 GER     28.72     59.98   1:31.12   2:02.61   2:33.69   3:05.28   3:36.59   4:06.55
+HEAT  2  5  Yuhan HANG                   CHN     28.63     59.78   1:31.06   2:02.41   2:33.79   3:05.55   3:36.60   4:06.30
+HEAT  2  6  Andreina PINTO               VEN     28.77     59.44   1:30.58   2:02.02   2:33.70   3:05.52   3:37.03   4:08.34
+HEAT  2  7  Emily OVERHOLT               CAN     29.71   1:01.14   1:33.48   2:05.96   2:38.65   3:11.34   3:44.41   4:16.24
+HEAT  2  8  Arina OPENYSHEVA             RUS     29.66   1:01.17   1:33.15   2:05.32   2:36.96   3:08.76   3:40.94   4:11.83
+HEAT  3  1  Alice MI_AU                  ITA     28.70     59.58   1:30.50   2:02.52   2:34.83   3:07.91   3:41.11   4:14.20
+HEAT  3  2  Mireia BELMONTE_GARCIA       ESP     28.99   1:00.11   1:30.80   2:02.39   2:33.55   3:05.45   3:37.02   4:08.12
+HEAT  3  3  Jazz CARLIN                  GBR     28.45     58.83   1:29.25   2:00.16   2:30.82   3:01.76   3:32.31   4:02.83
+HEAT  3  4  Leah SMITH                   USA     28.29     58.56   1:29.19   2:00.23   2:31.03   3:01.95   3:32.73   4:03.39
+HEAT  3  5  Jessica ASHWOOD              AUS     28.44     59.20   1:29.66   2:00.72   2:31.49   3:02.54   3:33.77   4:03.58
+HEAT  3  6  Brittany MACLEAN             CAN     28.50     58.49   1:29.22   1:59.72   2:30.78   3:01.79   3:33.00   4:03.43
+HEAT  3  7  Yue CAO                      CHN     28.51     59.18   1:31.00   2:03.74   2:37.53   3:11.38   3:45.97   4:19.57
+HEAT  3  8  Melania COSTA_SCHMID         ESP     29.26     59.41   1:30.27   2:00.85   2:32.31   3:03.84   3:36.62   4:08.96
+HEAT  4  1  Tamsin COOK                  AUS     28.63     59.66   1:30.68   2:01.98   2:32.96   3:03.79   3:34.67   4:04.36
+HEAT  4  2  Lauren BOYLE                 NZL     28.66     59.59   1:30.61   2:02.20   2:33.32   3:05.14   3:36.83   4:07.90
+HEAT  4  3  Boglarka KAPAS               HUN     29.02   1:00.03   1:30.54   2:01.42   2:31.93   3:02.98   3:33.84   4:04.11
+HEAT  4  4  Katie LEDECKY                USA     28.24     58.20   1:28.46   1:58.94   2:28.75   2:59.11   3:29.10   3:58.71
+HEAT  4  5  Sharon van_ROUWENDAAL        NED     28.92     59.80   1:31.07   2:02.70   2:34.55   3:06.67   3:39.07   4:11.44
+HEAT  4  6  Coralie BALMY                FRA     28.39     58.54   1:29.33   2:00.10   2:31.26   3:02.23   3:33.27   4:03.40
+HEAT  4  7  Diletta CARLI                ITA     30.95   1:02.70   1:35.10   2:07.55   2:40.21   3:12.91   3:45.32   4:17.15
+HEAT  4  8  Anja KLINAR                  SLO     30.05   1:00.88   1:31.93   2:02.78   2:34.30   3:05.73   3:37.73   4:09.07
+
+FINAL    1  Boglarka KAPAS               HUN     28.88     59.67   1:29.95   2:00.68   2:31.37   3:02.32   3:32.71   4:02.37
+FINAL    2  Brittany MACLEAN             CAN     28.11     58.58   1:29.10   2:00.52   2:31.51   3:02.89   3:33.94   4:04.69
+FINAL    3  Leah SMITH                   USA     28.42     58.89   1:29.59   2:00.52   2:31.10   3:01.70   3:31.99   4:01.92
+FINAL    4  Katie LEDECKY                USA     27.73     57.05   1:26.99   1:57.11   2:27.41   2:57.62   3:27.54   3:56.46
+FINAL    5  Jazz CARLIN                  GBR     28.49     58.86   1:29.25   2:00.08   2:30.07   3:00.68   3:31.16   4:01.23
+FINAL    7  Jessica ASHWOOD              AUS     28.79     59.61   1:30.77   2:02.00   2:33.16   3:04.40   3:35.85   4:05.68
+FINAL    8  Tamsin COOK                  AUS     28.91     59.74   1:30.92   2:02.24   2:33.59   3:04.78   3:35.79   4:05.30
+
+
+EVENT
+Women's 200m Freestyle
+
+SEMI  1  1  Manuella LYRIO               BRA     27.39     57.08   1:26.87   1:57.43
+SEMI  1  2  Bronte BARRATT               AUS     27.02     56.61   1:26.41   1:56.63
+SEMI  1  3  Duo SHEN                     CHN     27.00     56.81   1:26.36   1:56.03
+SEMI  1  4  Emma McKEON                  AUS     26.94     56.54   1:26.49   1:56.29
+SEMI  1  5  Charlotte BONNET             FRA     27.04     56.42   1:26.57   1:56.38
+SEMI  1  6  Yanhan AI                    CHN     27.26     56.68   1:27.13   1:57.41
+SEMI  1  7  Missy FRANKLIN               USA     27.57     56.82   1:27.64   1:57.56
+SEMI  1  8  Brittany MACLEAN             CAN     27.82     57.19   1:27.79   1:57.36
+SEMI  2  1  Katerine SAVARD              CAN     27.30     57.36   1:27.36   1:57.80
+SEMI  2  2  Siobhan HAUGHEY              HKG     27.27     57.08   1:27.19   1:57.56
+SEMI  2  3  Federica PELLEGRINI          ITA     26.98     56.25   1:25.76   1:55.42
+SEMI  2  4  Katie LEDECKY                USA     27.20     56.21   1:25.78   1:54.81
+SEMI  2  5  Sarah SJOSTROM               SWE     27.07     56.23   1:25.65   1:54.65
+SEMI  2  6  Michelle COLEMAN             SWE     27.17     56.47   1:26.32   1:56.05
+SEMI  2  7  Veronika POPOVA              RUS     27.52     56.71   1:26.93   1:57.22
+
+FINAL    2  Michelle COLEMAN             SWE     26.82     56.15   1:25.95   1:56.27
+FINAL    3  Federica PELLEGRINI          ITA     27.09     56.45   1:25.84   1:55.18
+FINAL    4  Sarah SJOSTROM               SWE     26.84     55.86   1:24.95   1:54.08
+FINAL    5  Katie LEDECKY                USA     27.00     55.43   1:24.55   1:53.73
+FINAL    6  Duo SHEN                     CHN     27.07     55.90   1:25.67   1:55.25
+FINAL    7  Emma McKEON                  AUS     26.64     55.37   1:25.17   1:54.92
+FINAL    8  Bronte BARRATT               AUS     27.35     56.40   1:26.02   1:55.25
+

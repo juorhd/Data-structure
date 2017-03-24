@@ -1,0 +1,35 @@
+Men's 100m Butterfly                   50m     100m       FINAL    MEDALS
+-------------------------------------------------------------------------
+Joseph SCHOOLING                     23.64    26.75       50.39      GOLD
+Joseph SCHOOLING (SEMI)              23.81    27.02       50.83
+Laszlo CSEH                          24.06    27.08       51.14    SILVER
+Michael PHELPS                       24.16    26.98       51.14    SILVER
+Chad_Guy_Bertrand le_CLOS            24.09    27.05       51.14    SILVER
+Zhuhao LI                            24.04    27.22       51.26
+
+Men's 200m Butterfly                   50m     100m     150m     200m       FINAL    MEDALS
+-------------------------------------------------------------------------------------------
+Michael PHELPS                       24.85    28.50    29.33    30.68     1:53.36      GOLD
+Masato SAKAI                         25.37    28.98    29.38    29.67     1:53.40    SILVER
+Tamas KENDERESI                      25.42    28.76    29.43    30.01     1:53.62    BRONZE
+Tamas KENDERESI (SEMI)               25.95    29.14    29.83    29.04     1:53.96
+Chad_Guy_Bertrand le_CLOS            25.06    28.81    29.48    30.71     1:54.06
+
+Men's 200m Individual Medley           50m     100m     150m     200m       FINAL    MEDALS
+-------------------------------------------------------------------------------------------
+Michael PHELPS                       24.91    28.54    33.51    27.70     1:54.66      GOLD
+Michael PHELPS (SEMI)                25.08    28.91    33.35    28.44     1:55.78
+Ryan LOCHTE (SEMI)                   25.10    29.16    33.57    28.45     1:56.28
+Kosuke HAGINO                        25.03    29.36    34.40    27.82     1:56.61    SILVER
+Shun WANG                            25.21    29.87    34.22    27.75     1:57.05    BRONZE
+Thiago PEREIRA (SEMI)                24.99    28.97    33.63    29.52     1:57.11
+Hiromasa FUJIMORI                    25.24    29.45    33.48    29.04     1:57.21
+
+Men's 4x100m Freestyle Relay           50m     100m     150m     200m     250m     300m     350m     400m       FINAL    MEDALS
+-------------------------------------------------------------------------------------------------------------------------------
+United_States_of_America             22.77    25.33    22.53    24.59    22.29    25.44    22.10    24.87     3:09.92      GOLD
+France                               23.23    24.85    22.42    25.78    22.03    25.11    22.28    24.83     3:10.53    SILVER
+Australia                            23.26    25.62    22.58    24.80    22.86    25.25    22.49    24.51     3:11.37    BRONZE
+Russian_Federation                   23.17    25.51    22.48    25.52    21.81    25.50    22.69    24.96     3:11.64
+Russian_Federation (HEAT)            23.09    25.49    22.59    25.59    22.36    25.29    22.65    24.98     3:12.04
+

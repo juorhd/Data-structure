@@ -1,0 +1,46 @@
+COUNTRY  PARTICIPANT                HEATS  SEMIS  FINALS    GOLD  SILVER  BRONZE
+--------------------------------------------------------------------------------
+AUS      Jessica ASHWOOD                1              1                        
+AUS      Bronte BARRATT                        1       1                        
+AUS      Tamsin COOK                    1              1                        
+AUS      Emma McKEON                           1       1                       1
+BAH      Joanna EVANS                   1                                       
+BAR      Lani CABRERA                   1                                       
+BRA      Manuella LYRIO                        1                                
+CAN      Brittany MACLEAN               1      1       1                        
+CAN      Emily OVERHOLT                 1                                       
+CAN      Katerine SAVARD                       1                                
+CHI      Kristel KOBRICH                1                                       
+CHN      Yanhan AI                             1                                
+CHN      Yue CAO                        1                                       
+CHN      Yuhan HANG                     1                                       
+CHN      Duo SHEN                              1       1                        
+DEN      Lotte FRIIS                    1                                       
+ESP      Mireia BELMONTE_GARCIA         1                                       
+ESP      Melania COSTA_SCHMID           1                                       
+FRA      Coralie BALMY                  1                                       
+FRA      Charlotte BONNET                      1                                
+GBR      Jazz CARLIN                    1              1               1        
+GER      Sarah KOHLER                   1                                       
+GUA      Valerie GRUEST_SLOWING         1                                       
+HKG      Siobhan HAUGHEY                       1                                
+HUN      Boglarka KAPAS                 1              1                        
+HUN      Ajna KESELY                    1                                       
+ITA      Diletta CARLI                  1                                       
+ITA      Alice MI_AU                    1                                       
+ITA      Federica PELLEGRINI                   1       1                        
+JPN      Chihiro IGARASHI               1                                       
+LIB      Gabriella DOUEIHY              1                                       
+NED      Sharon van_ROUWENDAAL          1                                       
+NZL      Lauren BOYLE                   1                                       
+RUS      Arina OPENYSHEVA               1                                       
+RUS      Veronika POPOVA                       1                                
+SLO      Anja KLINAR                    1                                       
+SRB      Katarina SIMONOVIC             1                                       
+SWE      Michelle COLEMAN                      1       1                        
+SWE      Sarah SJOSTROM                        1       1               1        
+USA      Missy FRANKLIN                        1                                
+USA      Katie LEDECKY                  1      1       2       2                
+USA      Leah SMITH                     1              1                       1
+VEN      Andreina PINTO                 1                                       
+VIE      Vien NGUYEN_THI_ANH            1                                       

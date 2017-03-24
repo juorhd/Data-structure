@@ -1,0 +1,16 @@
+marbles.pgm
+   10.3% match with marbles_1.pgm          (50,100):(148,197) similar to (0,0):(98,97)
+   12.6% match with marbles_2.pgm          (214,58):(321,166) similar to (1,0):(108,108)
+   14.6% match with marbles_3.pgm          (116,86):(267,175) similar to (0,0):(151,89)
+marbles_1.pgm
+   97.0% match with marbles.pgm            (0,0):(98,97) similar to (50,100):(148,197)
+    0.0% match with marbles_2.pgm       
+   25.1% match with marbles_3.pgm          (66,0):(98,75) similar to (0,14):(32,89)
+marbles_2.pgm
+   97.3% match with marbles.pgm            (1,0):(108,108) similar to (214,58):(321,166)
+    0.0% match with marbles_1.pgm       
+   35.7% match with marbles_3.pgm          (1,29):(54,108) similar to (98,1):(151,80)
+marbles_3.pgm
+   97.2% match with marbles.pgm            (0,0):(151,89) similar to (116,86):(267,175)
+   17.8% match with marbles_1.pgm          (0,14):(32,89) similar to (66,0):(98,75)
+   30.7% match with marbles_2.pgm          (98,1):(151,80) similar to (1,29):(54,108)

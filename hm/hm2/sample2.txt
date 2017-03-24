@@ -1,0 +1,230 @@
+EVENT
+Men's 4x100m Freestyle Relay
+
+HEAT  1  1  Romania                      ROU     23.35     49.33   1:12.57   1:39.32   2:02.63   2:28.83   2:51.53   3:17.03
+            Marius RADU                  Daniel MACOVEI               Alin COSTE                   Norbert TRANDAFIR          
+HEAT  1  2  Japan                        JPN     23.15     47.99   1:11.16   1:36.70   1:59.61   2:25.49   2:48.47   3:14.17
+            Katsumi NAKAMURA             Shinri SHIOURA               Kenji KOBASE                 Junya KOGA                 
+HEAT  1  3  Poland                       POL     23.68     49.93   1:12.94   1:38.35   2:01.24   2:26.99   2:50.04   3:15.52
+            Pawel KORZENIOWSKI           Kacper MAJCHRZAK             Jan SWITKOWSKI               Konrad CZERNIAK            
+HEAT  1  4  Russian_Federation           RUS     23.09     48.58   1:11.17   1:36.76   1:59.12   2:24.41   2:47.06   3:12.04
+            Andrey GRECHIN               Aleksandr POPKOV             Danila IZOTOV                Alexander SUKHORUKOV       
+HEAT  1  5  Italy                        ITA     22.98     48.51   1:11.30   1:37.09   2:00.08   2:25.51   2:48.47   3:14.22
+            Luca DOTTO                   Marco ORSI                   Michele SANTUCCI             Luca LEONARDI              
+HEAT  1  6  Canada                       CAN     22.41     48.73   1:11.13   1:36.43   1:59.16   2:24.72   2:48.40   3:14.06
+            Santo CONDORELLI             Yuri KISIL                   Markus THORMEYER             Evan Van_MOERKERKE         
+HEAT  1  7  Germany                      GER     23.29     48.92   1:11.62   1:37.81   2:00.71   2:26.27   2:49.96   3:14.97
+            Steffen DEIBLER              Bjorn HORNIKEL               Philipp WOLF                 Damian WIERLING            
+HEAT  1  8  Spain                        ESP     23.59     49.28   1:12.40   1:38.15   2:01.02   2:27.02   2:50.46   3:16.71
+            Markel ALBERDI_SAROBE        Miguel ORTIZ_CANAVATE_OZEKI  Aitor MARTINEZ_RODRIGUEZ     Bruno ORTIZ_CANAVATE_OZEKI 
+HEAT  2  1  United_States_of_America     USA     22.92     48.55   1:11.28   1:36.34   1:59.04   2:24.73   2:46.41   3:12.38
+            Jimmy FEIGEN                 Ryan HELD                    Blake PIERONI                Anthony ERVIN              
+HEAT  2  2  Greece                       GRE     23.44     49.92   1:11.99   1:37.35   2:00.35   2:26.48   2:48.38   3:14.62
+            Odyssefs MELADINIS           Kristian GKOLOMEEV           Christos KATRANTZIS          Apostolos CHRISTOU         
+HEAT  2  3  Brazil                       BRA     22.86     48.47   1:11.28   1:36.43   1:59.43   2:25.06   2:48.47   3:14.06
+            Marcelo CHIERIGHINI          Nicolas NILO                 Gabriel SANTOS               Matheus SANTANA            
+HEAT  2  4  France                       FRA     23.37     48.59   1:11.91   1:37.64   1:59.77   2:25.52   2:48.31   3:13.27
+            Clement MIGNON               William MEYNARD              Fabien GILOT                 Mehdy METELLA              
+HEAT  2  5  Australia                    AUS     23.09     48.85   1:11.48   1:35.89   1:58.62   2:24.22   2:46.99   3:12.65
+            James MAGNUSSEN              Kyle CHALMERS                James ROBERTS                Matthew ABOOD              
+HEAT  2  6  Belgium                      BEL     23.77     49.91   1:13.06   1:38.68   2:01.81   2:26.77   2:49.36   3:14.16
+            Dieter DEKONINCK             Jasper AERENTS               Glenn SURGELOOSE             Pieter TIMMERS             
+
+FINAL    1  Belgium                      BEL     23.25     48.73   1:11.61   1:37.20   1:59.80   2:26.02   2:48.66   3:13.57
+            Glenn SURGELOOSE             Jasper AERENTS               Emmanuel VANLUCHENE          Pieter TIMMERS             
+FINAL    2  Canada                       CAN     22.88     48.51   1:11.06   1:36.27   1:58.98   2:24.67   2:48.27   3:14.35
+            Santo CONDORELLI             Yuri KISIL                   Markus THORMEYER             Evan Van_MOERKERKE         
+FINAL    3  Australia                    AUS     23.26     48.88   1:11.46   1:36.26   1:59.12   2:24.37   2:46.86   3:11.37
+            James ROBERTS                Kyle CHALMERS                James MAGNUSSEN              Cameron McEVOY             
+FINAL    4  Russian_Federation           RUS     23.17     48.68   1:11.16   1:36.68   1:58.49   2:23.99   2:46.68   3:11.64
+            Andrey GRECHIN               Danila IZOTOV                Vladimir MOROZOV             Alexander SUKHORUKOV       
+FINAL    5  United_States_of_America     USA     22.77     48.10   1:10.63   1:35.22   1:57.51   2:22.95   2:45.05   3:09.92
+            Caeleb DRESSEL               Michael PHELPS               Ryan HELD                    Nathan ADRIAN              
+FINAL    6  France                       FRA     23.23     48.08   1:10.50   1:36.28   1:58.31   2:23.42   2:45.70   3:10.53
+            Mehdy METELLA                Fabien GILOT                 Florent MANAUDOU             Jeremy STRAVIUS            
+FINAL    7  Brazil                       BRA     22.71     48.12   1:11.16   1:36.38   1:59.33   2:25.10   2:47.71   3:13.21
+            Marcelo CHIERIGHINI          Nicolas NILO                 Gabriel SANTOS               Joao de_LUCCA              
+
+
+EVENT
+Men's 200m Butterfly
+
+HEAT  1  3  Sajan_Prakash PRAKASH        IND     26.48     56.92   1:27.63   1:59.37
+HEAT  1  4  Simon SJODIN                 SWE     25.92     55.12   1:25.66   1:56.46
+HEAT  1  5  Robert BOGAR                 SLO     25.77     56.01   1:25.79   1:57.05
+HEAT  1  6  Gal NEVO                     ISR     26.51     56.75   1:27.63   1:58.64
+HEAT  2  1  Jordan COELHO                FRA     26.29     56.70   1:27.26   1:58.62
+HEAT  2  2  Tom SHIELDS                  USA     25.82     55.29   1:25.55   1:56.93
+HEAT  2  3  Evgeny KOPTELOV              RUS     26.10     55.96   1:26.31   1:56.13
+HEAT  2  4  Chad_Guy_Bertrand le_CLOS    RSA     25.56     55.05   1:25.14   1:55.57
+HEAT  2  5  Masato SAKAI                 JPN     25.66     55.12   1:25.24   1:55.76
+HEAT  2  6  Zhuhao LI                    CHN     25.95     55.67   1:26.12   1:56.72
+HEAT  2  7  Zheng_Wen QUAH               SIN     26.39     55.62   1:25.40   1:56.01
+HEAT  2  8  Daniil PAKHOMOV              RUS     26.08     55.03   1:25.97   1:57.36
+HEAT  3  1  Carlos PERALTA_GALLEGO       ESP     26.01     55.65   1:25.76   1:56.98
+HEAT  3  2  Grant IRVINE                 AUS     25.70     55.04   1:25.25   1:55.64
+HEAT  3  3  Tamas KENDERESI              HUN     25.92     55.37   1:25.45   1:54.73
+HEAT  3  4  Michael PHELPS               USA     25.69     55.32   1:25.40   1:55.73
+HEAT  3  5  Daiya SETO                   JPN     25.39     55.17   1:25.47   1:55.79
+HEAT  3  6  Louis CROENEN                BEL     26.06     55.85   1:26.14   1:56.48
+HEAT  3  7  Stefanos DIMITRIADIS         GRE     26.49     55.95   1:26.85   1:56.76
+HEAT  3  8  Yuhang WU                    CHN     27.23     57.03   1:27.94   1:59.04
+HEAT  4  1  Sebastien_Daniel ROUSSEAU    RSA     26.02     55.74   1:25.91   1:57.33
+HEAT  4  2  David MORGAN                 AUS     25.36     55.63   1:25.86   1:56.81
+HEAT  4  3  Viktor BROMER                DEN     25.93     55.72   1:25.45   1:55.77
+HEAT  4  4  Laszlo CSEH                  HUN     25.51     55.54   1:25.71   1:55.14
+HEAT  4  5  Jan SWITKOWSKI               POL     26.16     55.39   1:25.74   1:56.73
+HEAT  4  6  Leonardo de_DEUS             BRA     25.90     54.83   1:25.22   1:55.98
+HEAT  4  7  Kaio MARCIO                  BRA     26.30     55.54   1:25.97   1:56.45
+HEAT  4  8  JD GOMEZ_NORIEGA             COL     26.29     55.18   1:25.60   1:56.65
+
+SEMI  1  1  Louis CROENEN                BEL     25.77     55.64   1:25.75   1:56.03
+SEMI  1  2  Zheng_Wen QUAH               SIN     25.91     55.64   1:25.15   1:56.11
+SEMI  1  3  Masato SAKAI                 JPN     25.67     55.11   1:24.95   1:55.32
+SEMI  1  4  Laszlo CSEH                  HUN     25.55     55.08   1:25.05   1:55.18
+SEMI  1  5  Grant IRVINE                 AUS     25.87     55.38   1:25.89   1:56.07
+SEMI  1  6  Daiya SETO                   JPN     25.80     55.18   1:25.11   1:55.28
+SEMI  1  7  Kaio MARCIO                  BRA     25.93     54.97   1:25.74   1:57.45
+SEMI  2  1  Simon SJODIN                 SWE     26.07     55.85   1:26.29   1:56.71
+SEMI  2  2  Leonardo de_DEUS             BRA     25.93     55.66   1:25.66   1:56.77
+SEMI  2  3  Michael PHELPS               USA     25.43     54.50   1:24.28   1:54.12
+SEMI  2  4  Tamas KENDERESI              HUN     25.95     55.09   1:24.92   1:53.96
+SEMI  2  5  Chad_Guy_Bertrand le_CLOS    RSA     25.70     56.04   1:25.12   1:55.19
+SEMI  2  6  Viktor BROMER                DEN     26.57     56.04   1:26.13   1:55.59
+SEMI  2  7  Evgeny KOPTELOV              RUS     26.14     55.46   1:26.22   1:56.46
+SEMI  2  8  JD GOMEZ_NORIEGA             COL     26.35     55.61   1:26.34   1:57.47
+
+FINAL    1  Viktor BROMER                DEN     25.60     55.01   1:24.27   1:55.64
+FINAL    2  Daiya SETO                   JPN     25.06     54.24   1:23.58   1:54.82
+FINAL    3  Laszlo CSEH                  HUN     24.77     53.78   1:23.59   1:56.24
+FINAL    4  Tamas KENDERESI              HUN     25.42     54.18   1:23.61   1:53.62
+FINAL    5  Michael PHELPS               USA     24.85     53.35   1:22.68   1:53.36
+FINAL    6  Chad_Guy_Bertrand le_CLOS    RSA     25.06     53.87   1:23.35   1:54.06
+FINAL    7  Masato SAKAI                 JPN     25.37     54.35   1:23.73   1:53.40
+
+
+EVENT
+Men's 200m Individual Medley
+
+HEAT  1  2  Ahmed MATHLOUTHI             TUN     26.44     58.77   1:34.40   2:04.95
+HEAT  1  3  Raphael STACCHIOTTI          LUX     25.30     55.88   1:31.12   2:00.21
+HEAT  1  4  Yixuan HU                    CHN     25.74     55.68   1:30.50   2:00.70
+HEAT  1  5  Emmanuel VANLUCHENE          BEL     26.23     56.39   1:32.96   2:01.36
+HEAT  1  6  Uvis KALNINS                 LAT     26.36     57.03   1:32.26   2:02.34
+HEAT  1  7  Marko BLAZHEVSKI             MKD     26.47     58.59   1:32.96   2:02.54
+HEAT  2  1  Alexis SANTOS                POR     25.52     55.89   1:30.47   1:59.67
+HEAT  2  2  Travis MAHONEY               AUS     25.63     55.33   1:30.75   2:00.18
+HEAT  2  4  Ryan LOCHTE                  USA     25.30     54.89   1:28.89   1:57.38
+HEAT  2  5  Henrique RODRIGUES           BRA     25.17     54.50   1:29.51   1:58.56
+HEAT  2  6  Philip HEINT                 GER     25.21     55.58   1:29.23   1:57.59
+HEAT  2  8  Mohamed HUSSEIN              EGY     25.95     56.31   1:32.22   2:02.36
+HEAT  3  1  Gal NEVO                     ISR     25.76     57.30   1:31.14   1:59.80
+HEAT  3  2  Jeremy DESPLANCHES           SUI     25.58     56.82   1:30.67   1:59.67
+HEAT  3  3  Dan WALLACE                  GBR     25.46     56.85   1:30.18   1:59.44
+HEAT  3  4  Kosuke HAGINO                JPN     25.21     55.17   1:30.23   1:58.79
+HEAT  3  5  Shun WANG                    CHN     25.55     55.57   1:30.61   1:58.98
+HEAT  3  6  Andreas VAZAIOS              GRE     25.69     55.62   1:30.19   1:59.33
+HEAT  3  8  Semen MAKOVICH               RUS     25.89     56.65   1:30.71   1:59.86
+HEAT  4  1  Diogo CARVALHO               POR     25.43     56.65   1:30.85   2:00.17
+HEAT  4  2  Eduardo SOLAECHE_GOMEZ       ESP     25.97     56.33   1:30.01   1:59.67
+HEAT  4  3  Hiromasa FUJIMORI            JPN     25.67     55.59   1:29.58   1:58.88
+HEAT  4  4  Michael PHELPS               USA     25.71     55.16   1:29.19   1:58.41
+HEAT  4  5  Thiago PEREIRA               BRA     25.21     54.34   1:28.75   1:58.63
+HEAT  4  6  Simon SJODIN                 SWE     25.38     55.43   1:30.52   1:59.41
+HEAT  4  7  Ieuan LLOYD                  GBR     26.13     57.11   1:31.00   1:59.74
+HEAT  4  8  Bradlee ASHBY                NZL     25.91     56.89   1:30.95   1:59.77
+
+SEMI  1  1  Eduardo SOLAECHE_GOMEZ       ESP     25.84     56.67   1:31.11   2:00.47
+SEMI  1  3  Kosuke HAGINO                JPN     25.15     54.72   1:28.72   1:57.38
+SEMI  1  4  Philip HEINT                 GER     25.15     55.69   1:29.97   1:58.85
+SEMI  1  5  Henrique RODRIGUES           BRA     25.41     55.57   1:30.24   1:59.23
+SEMI  1  6  Shun WANG                    CHN     25.48     55.61   1:30.13   1:58.12
+SEMI  1  7  Alexis SANTOS                POR     25.65     56.12   1:31.06   2:00.08
+SEMI  1  8  Bradlee ASHBY                NZL     25.81     56.54   1:31.28   2:00.45
+SEMI  2  1  Jeremy DESPLANCHES           SUI     25.57     56.50   1:31.46   2:00.38
+SEMI  2  2  Andreas VAZAIOS              GRE     25.06     54.66   1:29.76   1:59.54
+SEMI  2  3  Thiago PEREIRA               BRA     24.99     53.96   1:27.59   1:57.11
+SEMI  2  4  Ryan LOCHTE                  USA     25.10     54.26   1:27.83   1:56.28
+SEMI  2  5  Michael PHELPS               USA     25.08     53.99   1:27.34   1:55.78
+SEMI  2  6  Hiromasa FUJIMORI            JPN     25.43     54.95   1:29.23   1:58.20
+SEMI  2  7  Dan WALLACE                  GBR     25.44     56.29   1:29.36   1:57.97
+SEMI  2  8  Ieuan LLOYD                  GBR     25.72     56.24   1:30.43   1:59.49
+
+FINAL    1  Hiromasa FUJIMORI            JPN     25.24     54.69   1:28.17   1:57.21
+FINAL    3  Thiago PEREIRA               BRA     24.74     53.45   1:27.37   1:58.02
+FINAL    4  Michael PHELPS               USA     24.91     53.45   1:26.96   1:54.66
+FINAL    5  Ryan LOCHTE                  USA     25.03     53.44   1:28.09   1:57.47
+FINAL    6  Kosuke HAGINO                JPN     25.03     54.39   1:28.79   1:56.61
+FINAL    7  Shun WANG                    CHN     25.21     55.08   1:29.30   1:57.05
+FINAL    8  Philip HEINT                 GER     25.28     55.53   1:29.06   1:57.48
+
+
+EVENT
+Men's 100m Butterfly
+
+HEAT  1  4  Oumar TOURE                  MLI     26.09     57.56
+HEAT  1  5  Hannibal GASKIN              GUY     27.02     58.57
+HEAT  2  1  Ralph GOVEIA_ASSAFRAO        ZAM     25.22     54.84
+HEAT  2  2  Allan GUTIERRE               HON     25.35     55.20
+HEAT  2  3  Glenn SUTANTO                INA     25.41     54.25
+HEAT  2  4  Santo CONDORELLI             CAN     24.45     51.99
+HEAT  2  5  Ryan PINI                    PNG     24.59     53.24
+HEAT  2  6  Abbas QALI                   IOA     25.33     54.63
+HEAT  2  7  Rami ANIS                    ROT     25.94     56.23
+HEAT  2  8  Anthonny_Sitraka RALEFY      MAD     24.94     54.72
+HEAT  3  1  Qibin HANG                   CHN     24.53     52.84
+HEAT  3  2  Liubomyr LEMESHKO            UKR     24.09     52.51
+HEAT  3  3  Marcos MACEDO                BRA     24.57     53.87
+HEAT  3  4  Henrique MARTINS             BRA     24.78     52.42
+HEAT  3  5  James GUY                    GBR     24.42     51.78
+HEAT  3  6  Long GUTIERRE_FENG           MEX     24.62     53.34
+HEAT  3  7  Zheng_Wen QUAH               SIN     24.27     52.08
+HEAT  3  8  Luis MARTINE                 GUA     24.57     52.22
+HEAT  4  1  Steffen DEIBLER              GER     24.05     52.14
+HEAT  4  2  Pavel SANKOVICH              BLR     24.47     53.00
+HEAT  4  3  Piero CODIA                  ITA     23.70     51.72
+HEAT  4  4  Laszlo CSEH                  HUN     24.23     51.52
+HEAT  4  5  Konrad CZERNIAK              POL     23.83     51.81
+HEAT  4  6  Evgeny KOPTELOV              RUS     24.60     52.01
+HEAT  4  7  Jeremy STRAVIUS              FRA     24.30     52.10
+HEAT  4  8  Santiago GRASSI              ARG     24.41     52.56
+HEAT  5  1  Joeri VERLINDEN              NED     24.49     52.48
+HEAT  5  2  Matteo RIVOLTA               ITA     24.50     52.67
+HEAT  5  3  Mehdy METELLA                FRA     24.10     51.71
+HEAT  5  4  Chad_Guy_Bertrand le_CLOS    RSA     24.25     51.75
+HEAT  5  5  Tom SHIELDS                  USA     24.34     51.58
+HEAT  5  6  Pawel KORZENIOWSKI           POL     25.00     53.71
+HEAT  5  7  David MORGAN                 AUS     24.72     51.81
+HEAT  5  8  Bence PULAI                  HUN     24.38     52.73
+HEAT  6  1  Grant IRVINE                 AUS     24.31     51.84
+HEAT  6  2  Aleksandr SADOVNIKOV         RUS     23.99     51.91
+HEAT  6  3  Zhuhao LI                    CHN     24.64     51.78
+HEAT  6  4  Michael PHELPS               USA     24.50     51.60
+HEAT  6  5  Joseph SCHOOLING             SIN     24.21     51.41
+HEAT  6  6  Yauhen TSURKIN               BLR     24.44     53.24
+HEAT  6  7  Takuro FUJII                 JPN     24.49     52.36
+HEAT  6  8  Albert SUBIRATS              VEN     24.60     53.23
+
+SEMI  1  1  Santo CONDORELLI             CAN     23.97     51.83
+SEMI  1  2  Konrad CZERNIAK              POL     23.81     51.80
+SEMI  1  3  Piero CODIA                  ITA     23.73     51.82
+SEMI  1  4  Laszlo CSEH                  HUN     24.24     51.57
+SEMI  1  5  Michael PHELPS               USA     24.47     51.58
+SEMI  1  6  James GUY                    GBR     24.30     52.10
+SEMI  1  7  Grant IRVINE                 AUS     24.42     51.87
+SEMI  1  8  Zheng_Wen QUAH               SIN     24.29     52.26
+SEMI  2  1  Aleksandr SADOVNIKOV         RUS     23.65     51.71
+SEMI  2  2  Zhuhao LI                    CHN     24.11     51.51
+SEMI  2  3  Mehdy METELLA                FRA     24.17     51.73
+SEMI  2  4  Joseph SCHOOLING             SIN     23.81     50.83
+SEMI  2  5  Tom SHIELDS                  USA     24.16     51.61
+SEMI  2  6  Chad_Guy_Bertrand le_CLOS    RSA     24.01     51.43
+SEMI  2  7  David MORGAN                 AUS     24.48     51.75
+
+FINAL    2  Michael PHELPS               USA     24.16     51.14
+FINAL    3  Zhuhao LI                    CHN     24.04     51.26
+FINAL    4  Joseph SCHOOLING             SIN     23.64     50.39
+FINAL    5  Chad_Guy_Bertrand le_CLOS    RSA     24.09     51.14
+FINAL    6  Laszlo CSEH                  HUN     24.06     51.14
+FINAL    7  Tom SHIELDS                  USA     24.28     51.73
+FINAL    8  Mehdy METELLA                FRA     24.24     51.58
